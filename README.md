@@ -1,6 +1,3 @@
-# Welcome to freeCodeCamp's About page
+# Welcome to freeCodeCamp's Contribute page
 
-This is a simple static website that we plan to expand once we release our open REST API.
-
-You can view our about page live here: https://www.freecodecamp.com/about
-
+This is a simple static page that shows fun ways you can contribute to freeCodeCamp's community.
