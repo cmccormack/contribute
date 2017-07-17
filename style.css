@@ -10756,7 +10756,7 @@ h1, h2, h3, h4, h5, h6, p, li {
 }
 @media (min-width: 767px) {
   .link-table td {
-    font-size: 24px;
+    font-size: 32px;
   }
 }
 .capitalize {
